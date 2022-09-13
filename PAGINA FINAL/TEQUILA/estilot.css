@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:ital,wght@0,100;0,200;0,300;1,200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+.whisky{
+    widows: 100%;
+    height: 100px;
+    background: #023877;
+    padding: 20px 20px;
+    text-align: center;
+    color: aliceblue;
+}
+.in{
+    background: #5497ee;
+    text-align: left;
+    color: aliceblue;
+}
+.box1{
+    border: 3px solid rgb(0, 0, 0);
+    padding: 40px 20px;
+display: flex;
+
+
+}
+.seccion{
+    display: inline;
+}
+.ft{
+    width:100%;
+    padding: 30px;
+    height: 50px;
+    background-color: #023877;
+    color: #fffffffb;
+    margin-top:  100px; ;
+    text-align: center;
+}
+body {
+    background-color: #303797;
+    background-image: url("imgt/fondo2.jpg");
+  }
